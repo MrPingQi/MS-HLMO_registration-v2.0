@@ -2,7 +2,6 @@
 
 A new image matching/registration process for the paper “Gao C, Li W. An invariant feature extraction for multi-modal images matching[J]. arXiv preprint arXiv:2311.02842, 2023.” [Online]. Available: https://arxiv.org/abs/2311.02842
 
-
 If you have any queries or suggestions, please do not hesitate to contact me (gao-pingqi@qq.com or 3120205425@bit.edu.cn).
 
 Run this code by the following procedures:
