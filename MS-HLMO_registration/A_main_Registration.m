@@ -11,7 +11,7 @@ int_flag = 1; % yes:1, no:0
 %% Is there any obvious rotation difference
 rot_flag = 1;
 %% Is there any obvious scale difference
-scl_flag = 0;
+scl_flag = 1;
 %% Do you want parallel computing in multi-scale strategy
 par_flag = 1;
 %% What kind of feature point do you want as the keypoint
