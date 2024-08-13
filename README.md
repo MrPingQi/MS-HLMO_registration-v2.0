@@ -17,6 +17,7 @@ Run this code by the following procedures:
 
 Matching examples:
 ![image](example_igarss.png)
+![image](example_medical.png)
 
 An image registration software based on MS-HLMO:
 ![image](soon.jpg)
