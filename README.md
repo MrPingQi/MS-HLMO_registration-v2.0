@@ -1,6 +1,6 @@
 # MS-HLMO_registration
 
-A new image matching/registration algorithm building upon and surpassing MS-HLMO, which is for the paper “Gao C, Li W. An invariant feature extraction for multi-modal images matching[J]. arXiv preprint arXiv:2311.02842, 2023.” [Online]. Available: https://arxiv.org/abs/2311.02842
+A new image matching/registration algorithm building upon and surpassing MS-HLMO, which is for the paper “Gao C, Li W. An invariant feature extraction for multi-modal images matching[J]. arXiv preprint arXiv:2311.02842, 2023.” [Online]. Available: https://ieeexplore.ieee.org/document/10641671
 
 If you have any queries or suggestions, please do not hesitate to contact me (gao-pingqi@qq.com).
 If you are from China, just speak Chinese, its OK~  中国人直接说中文就可以了~
