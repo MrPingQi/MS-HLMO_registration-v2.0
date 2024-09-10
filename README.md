@@ -1,4 +1,4 @@
-# MS-HLMO_registration
+# MS-HLMOv2_registration
 
 A new image matching/registration algorithm building upon and surpassing MS-HLMO, which is for the paper “Gao C, Li W. An invariant feature extraction for multi-modal images matching[C]. 2024 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2024: 8374-8378.” [Online]. Available: https://ieeexplore.ieee.org/document/10641671
 
