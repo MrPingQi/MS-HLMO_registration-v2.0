@@ -21,6 +21,8 @@ Computer vision:
 ![image](example_igarss.png)
 ![image](example_cv.png)
 
+Remote sensing:
+
 Medical:
 ![image](example_medical.png)
 
