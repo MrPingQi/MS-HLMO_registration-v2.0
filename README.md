@@ -16,9 +16,11 @@ Run this code by the following procedures:
 ** This project is just a demo for algorithm testing, and we highly recommend checking the practical version, which is now available at https://github.com/MrPingQi/MS-HLMO_registration-v2.1
 
 Matching examples:
+
 Computer vision:
 ![image](example_igarss.png)
 ![image](example_cv.png)
+
 Medical:
 ![image](example_medical.png)
 
