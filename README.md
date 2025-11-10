@@ -16,6 +16,7 @@ Run this code by the following procedures:
 <!---
 ** This project is just a demo for algorithm testing, and we highly recommend checking the practical version, which is now available at https://github.com/MrPingQi/MS-HLMO_registration-v2.1
 -->
+** Now this image matching algorithm is an old-fashioned one, and we highly recommend checking our new method: HOMO-Feature, which is now available at https://github.com/MrPingQi/HOMO-Feature_ImgMatching.
 
 
 Matching examples:
