@@ -30,6 +30,19 @@ Remote sensing:
 Medical:
 ![image](example_medical.png)
 
+## 📚 Citation
+If you find our work useful in your research, please consider citing:
+```bibtex
+@inproceedings{gao2024new,
+  title={A New Invariant Feature for Multi-Modal Images Matching},
+  author={Gao, Chenzhong and Li, Wei and Li, Yute},
+  booktitle={IGARSS 2024-2024 IEEE International Geoscience and Remote Sensing Symposium},
+  pages={8374--8378},
+  year={2024},
+  organization={IEEE}
+}
+```
+
 An image registration software based on MS-HLMO:
 ![image](soon.jpg)
 is comming soon.
