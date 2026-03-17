@@ -1,6 +1,8 @@
 # MS-HLMOv2_registration
 
-A new image matching/registration algorithm building upon and surpassing MS-HLMO, which is for the paper “Gao C, Li W. An invariant feature extraction for multi-modal images matching[C]. 2024 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2024: 8374-8378.” [Online]. Available: https://ieeexplore.ieee.org/document/10641671
+A new image matching/registration algorithm building upon and surpassing MS-HLMO.
+
+Paper Link: https://ieeexplore.ieee.org/document/10641671
 
 If you have any queries or suggestions, please do not hesitate to contact me (gao-pingqi@qq.com).
 If you are from China, just speak Chinese, its OK~  中国人直接说中文就可以了~
@@ -39,6 +41,15 @@ If you find our work useful in your research, please consider citing:
   pages={8374--8378},
   year={2024},
   organization={IEEE}
+}
+@article{gao2022ms,
+  title={{MS-HLMO}: Multiscale histogram of local main orientation for remote sensing image registration},
+  author={Gao, Chenzhong and Li, Wei and Tao, Ran and Du, Qian},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--14},
+  year={2022},
+  publisher={IEEE}
 }
 ```
 
