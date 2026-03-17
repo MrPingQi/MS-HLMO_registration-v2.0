@@ -1,4 +1,4 @@
-# MS-HLMOv2_registration
+# MS-HLMOv2: A New Invariant Feature for Multi-Modal Images Matching
 
 A new image matching/registration algorithm building upon and surpassing MS-HLMO.
 
@@ -43,6 +43,8 @@ If you find our work useful in your research, please consider citing:
   year={2024},
   organization={IEEE}
 }
+```
+```bibtex
 @article{gao2022ms,
   title={{MS-HLMO}: Multiscale histogram of local main orientation for remote sensing image registration},
   author={Gao, Chenzhong and Li, Wei and Tao, Ran and Du, Qian},
