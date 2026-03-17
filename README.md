@@ -27,6 +27,7 @@ Computer vision:
 ![image](misc/example_cv.jpg)
 
 Remote sensing:
+![image](misc/example_rs.jpg)
 
 Medical:
 ![image](misc/example_medical.jpg)
