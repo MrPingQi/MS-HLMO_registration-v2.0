@@ -23,13 +23,13 @@ Run this code by the following procedures:
 
 ## 📈 Matching Performance 
 Computer vision:
-![image](misc/example_igarss.png)
-![image](misc/example_cv.png)
+![image](misc/example_igarss.jpg)
+![image](misc/example_cv.jpg)
 
 Remote sensing:
 
 Medical:
-![image](misc/example_medical.png)
+![image](misc/example_medical.jpg)
 
 ## 📚 Citation
 If you find our work useful in your research, please consider citing:
