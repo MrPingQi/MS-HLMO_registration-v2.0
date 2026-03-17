@@ -23,13 +23,13 @@ Run this code by the following procedures:
 
 ## 📈 Matching Performance 
 Computer vision:
-![image](example_igarss.png)
-![image](example_cv.png)
+![image](misc/example_igarss.png)
+![image](misc/example_cv.png)
 
 Remote sensing:
 
 Medical:
-![image](example_medical.png)
+![image](misc/example_medical.png)
 
 ## 📚 Citation
 If you find our work useful in your research, please consider citing:
@@ -54,5 +54,5 @@ If you find our work useful in your research, please consider citing:
 ```
 
 An image registration software based on MS-HLMO:
-![image](soon.jpg)
+![image](misc/soon.jpg)
 is comming soon.
