@@ -20,6 +20,7 @@ Run this code by the following procedures:
 -->
 ** Now this image matching algorithm is an old-fashioned one, and we highly recommend checking our new method: HOMO-Feature, which is now available at https://github.com/MrPingQi/HOMO-Feature_ImgMatching.
 
+<br>
 
 ## 📈 Matching Performance
 Computer vision:
@@ -32,6 +33,7 @@ Remote sensing:
 Medical:
 ![image](misc/example_medical.jpg)
 
+<br>
 
 ## 📚 Citation
 If you find our work useful in your research, please consider citing:
